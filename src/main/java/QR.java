@@ -93,7 +93,7 @@ System.out.print("int[] actions = {");
       for(int i = 0; i < IT.length()-1; i++){
           System.out.printf("%c,",IT.charAt(i));
       }
-
+//test
         System.out.printf("%c};",IT.charAt(IT.length() - 1));
 
 
