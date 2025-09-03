@@ -5,7 +5,7 @@ import java.awt.*;
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
 import java.util.ArrayList;
-
+//github pls
 public class QRpane extends JPanel {
     static int codeXY = 522;
     static int plength = 29;
